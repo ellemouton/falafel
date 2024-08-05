@@ -1,4 +1,4 @@
-module github.com/lightninglabs/falafel
+module github.com/ellemouton/falafel
 
 require google.golang.org/protobuf v1.33.0
 
